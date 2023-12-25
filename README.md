@@ -11,9 +11,10 @@ Team members:
 - Arnau Claramunt
 - Joan Marc Coll
 - Pablo Franco
-- David Garcia
+- David García
 
 The statement of the project in Catalan can be found in `DOCS/Enunciat.pdf`.
+
 
 Project made in Java, using 3 layer architecture and the Graphical Interface with Swing.
 
@@ -22,7 +23,6 @@ To execute the application, using Linux, inside the directory: `EXE` write the c
 ---
 
 Some screenshots of the application: (notice that the optimal keyboard is circular)
-
 <br>
 </br>
 
