@@ -12,8 +12,6 @@ Team members:
 - Pablo Franco
 - David Garcia
   
-<br>
-</br>
 ---
 
 Some screenshots of the application: (notice that the optimal keyboard is circular)
