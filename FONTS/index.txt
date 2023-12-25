@@ -1,0 +1,21 @@
+Esta carpeta contiene todo el codigo del programa mas un Makefile para compilar
+
+Separado en arquitectura por capas, hay Dominio donde hay toda la logica y la parte del Algoritmo.
+
+La capa Presentacion, donde se muestra la interfaz grafica, lee los datos del usuario mostrando ventanas,
+para que introduzca los datos, confirme (se hacen los casos de uso) y tambien se imprime el teclado generado.
+
+En la capa Persistencia, se guardan los teclados generados y el input asociado que se ha usado para generarlo.
+Luego se guarda en ficheros de texto para que al cerrar el programa no se pierda la informacion.
+
+Tambien hay los controladores de cada capa.
+
+
+Instrucciones para compilar todas las clases .java:
+
+En la capeta FONTS, hacer:
+
+    make compile
+        (lo compila todo y lo mueve a la carpeta EXE/CLASS)
+
+    Para ejecutar, ir a la carpeta EXE y alli ejecutar con el script, el programa principal

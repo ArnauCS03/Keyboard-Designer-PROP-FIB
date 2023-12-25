@@ -1,0 +1,7 @@
+En esta carpeta de Excepcions hay:
+	- Una clase ExcepFichero la cual hereda de la clase de Java Exception y por lo tanto todas las demas heredan de ExcepFichero.
+	- Por cada excepcion que nos podamos encontrar existe una clase de excepcion:
+	- FicheroVacio: saltara cuando intentemos leer de un fichero vacio
+	- FormatoErroneoAlfabeto: saltara cuando el alfabeto que leemos de un archivo no es en el formato que queremos, chars no repetidos seguidos sin espacios (si se quiere meter el espacio se pone un espacio)
+	- FormatoErroneoFrecPalabras: saltara cuando la frecuencia de palabras (string palabra y su int frecuencia) no es el formato que queremos, por cada par de lineas queremos palabra y debajo su frecuencia
+	- FormatoErroneoTexto: saltara cuando el texto no es en el formato que queremos, unicamente texto

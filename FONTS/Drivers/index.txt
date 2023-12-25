@@ -1,0 +1,5 @@
+En esta carpeta Drivers hay:
+
+- El driver para probar el correcto funcionamiento de la generacion del programa, es interactivo, se pueden introducir
+los datos tanto por la terminal como en fichero.
+    Los ficheros input tienen que estar separados en: inputAlfabeto.txt  inputFlujos.txt  inputTexto.txt

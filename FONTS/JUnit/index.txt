@@ -1,0 +1,2 @@
+En esta carpeta hay:
+	- Por cada clase su correspondiente clase test de JUnit para probar sus metodos con casos mas extremos

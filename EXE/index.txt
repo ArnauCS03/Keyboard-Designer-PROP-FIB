@@ -1,0 +1,15 @@
+Esta carpeta EXE se encuentran los archivos compilados de todas las clases, el 
+ejecutable del programa.
+
+En la carpeta Class hay los .class que son compilados desde el Makefile de la carpeta 
+FONTS y contiene los ficheros compilados de los .java de las clases.
+
+En la carpeta InputsDeEjemplo hay los ficheros que se pueden usar para leer input, 
+que esta el modo especificado dentro el programa.
+
+
+
+!!!!! IMPORTANTE !!!!!
+
+Para ejecutar el programa, hay que introducir en la terminal de Linux:   ./EXE.sh
+(desde dentro del directorio /EXE)

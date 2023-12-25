@@ -1,0 +1,20 @@
+En este directorio contiene la siguiente documentacion:
+
+En la primera entrega:
+- DiagramaCasosUso.mdj : el fichero con el diagrama de los casos de uso del sistema.
+- DiagramaClases.mdj : el fichero con el diagrama de clases en version diseño.
+- DocumentacionPrimeraEntrega.pdf : la documentacion extensa de todo el proyecto de la Primera entrega (aparece tambien la relacion de las clases implementadas por cada miembro)
+
+En la segunda entrega:
+- DiagramaClasesCapaDominio.jpg : el diagrama solo de la parte del dominio con su controlador.
+- DiagramaClasesCapaPresentacion.jpg : diagrama de la capa de Presentacion, con sus vistas.
+- DiagramaClasesCapaPersistencia.jpg : diagrama de la capa de Persistencia/datos.
+
+- DocumentacionSegundaEntrega.pdf : explica los 3 diagramas, descripcion de metodos, atributos y clases. Y Estructuras de Datos y Algoritmos.
+
+En la tercera entrega:
+- DocumentacionJuegosPrueba.pdf : se explica los casos que se ha testeado para ver el correcto funcionamiento del programa, hay lo que se desea probar,
+  la accion esperada y el resultado que nos ha dado.
+- ManualUsuario.pdf : es una guia de como usar el programa, toda la interfaz grafica. Explica cada vista que hace y que pasos seguir para el correcto
+  funcionamiento. Cada boton a donde te lleva etc.
+- RelacionClasesPorMiembro.pdf : contiene las clases que ha hecho cada miembro del gurpo en esta tercera entrega y separado todas las de las otras entregas.

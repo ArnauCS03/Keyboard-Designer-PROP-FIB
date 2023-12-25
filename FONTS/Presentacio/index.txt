@@ -1,0 +1,15 @@
+Esta carpeta contiene la capa de Presentacion, donde aparece la interfaz grafica 
+y el programa de generar el teclado.
+
+Tenemos el controlador de Presentacion que es el encargado de que todo este conectado.
+Si necesitamos acceder a los datos, como utilizamos la arquitectura en tres capas, 
+esta se comunicará con la controladora de dominio, y la controladora de dominio con la 
+capa de persistencia.
+
+La clase Main, es la que llama a iniciar el programa y que aparezca la vista inicial, 
+y luego entre vistas se comunican usando el controlador.
+
+Tambien hay la clase P_LeerInput que lee de un fichero la informacion que queramos.
+La clase de P_ImprimirTeclado que nos imprime la estructura del teclado generado.
+La clase P_VerificarFormatoPantalla para cuando el usuario introduzca los datos de input, 
+asegurarse que son correctos.

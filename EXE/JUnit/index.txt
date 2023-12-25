@@ -1,0 +1,1 @@
+Esta carpeta contiene los ejecutables de JUnit y ademas los archivos .txt de la prueba de JUnit de LeerInputTest ya que necesita leer de archivos

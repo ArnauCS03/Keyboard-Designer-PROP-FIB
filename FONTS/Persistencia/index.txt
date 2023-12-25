@@ -1,0 +1,10 @@
+En esta carpeta esta toda la capa de Persistencia o capa de Datos.
+Donde hay el gestor de disco, que principalmente el controlador pasa la informacion
+a las clases, para implementar los casos de uso de gestionar (editar, guardar, cargar,
+eliminar) y hacer que cuando se cierre la aplicacion no se pierdan los datos leidos y 
+teclados generados, se guardan en un fichero.
+
+· Dentro del fichero "Alfabetos.txt" se guardaran todos los alfabetos
+· Dentro del fichero "ListasPalabras.txt" se guardaran todos las listas de palabras
+· Dentro del fichero "Teclados.txt" se guardaran todos los teclados
+· Dentro del fichero "Textos.txt" se guardaran todos los textos

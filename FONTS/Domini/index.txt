@@ -1,0 +1,2 @@
+Esta carpeta de dominio contiene todas las clases del algoritmo junto al controlador de capa de dominio para comunicarse con el de presentacion y el de datos.
+Tambien contiene la clase procesar texto que dado el input que leamos del fichero nos transforma a los datos necesarios para pasarle al algoritmo.
