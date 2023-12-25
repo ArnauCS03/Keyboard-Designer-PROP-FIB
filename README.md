@@ -1,8 +1,8 @@
 # Keyboard-Designer-PROP-FIB
 ---
-Program that designs the optimal keyboard for one finger, given an input. 
-Project made in the subject PROP, Project of Programming in FIB - UPC Barcelona Q1 2023.
-All the code and documentation is in Spanish.
+Program that designs the optimal keyboard layout for single-finger typing, based on given input. 
+This project was completed for the PROP course (Programming Project) at FIB - UPC, Barcelona in Q1 2023. 
+All code and documentation are provided in Spanish.
 ---
 <br>
 </br>
