@@ -4,8 +4,6 @@ Program that designs the optimal keyboard layout for single-finger typing, based
 This project was completed for the PROP course (Programming Project) at FIB - UPC, Barcelona in Q1 2023. 
 All code and documentation are provided in Spanish.
 ---
-<br>
-</br>
 
 Team members:
 - Arnau Claramunt
@@ -36,5 +34,5 @@ Some screenshots of the application: (notice that the optimal keyboard is circul
 
 "Disclaimer: This application may contain bugs, and some portions of the code might be unoptimized or lack comments."
 
-
-
+<br>
+</br>
